@@ -1,0 +1,14 @@
+.cabecalho__buscar___input {
+    all: unset;
+    background: var(--dark-bg);
+    border-radius: 4px 0px 0px 4px;
+    text-align: center;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: var(--light-purple);
+}

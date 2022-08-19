@@ -1,0 +1,19 @@
+.cabecalho__navegacao___item:nth-child(1){
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: var(--white);
+}
+
+.cabecalho__navegacao___item {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: var(--white);
+}

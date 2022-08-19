@@ -1,0 +1,6 @@
+.posts__principal {
+    display: flex;
+    justify-content: center;
+    gap: 8rem;
+    padding: 0 2.5rem;
+}

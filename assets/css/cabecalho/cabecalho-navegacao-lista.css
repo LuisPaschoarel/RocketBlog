@@ -1,0 +1,5 @@
+.cabecalho__navegacao___lista {
+    display: flex;
+    width: 25%;
+    justify-content: space-around;
+}

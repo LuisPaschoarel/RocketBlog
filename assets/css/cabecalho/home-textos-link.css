@@ -1,0 +1,14 @@
+.home__textos___link {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+
+    text-decoration: none;
+
+    color: var(--button-bg);
+
+    display: flex;
+    gap: 1rem;
+}
